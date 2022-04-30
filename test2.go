@@ -12,7 +12,6 @@ func main() {
 	fmt.Println("nihdaao")
 	fmt.Println("做了更改")
 	// test1Project.Test2()
-	fmt.Println("又加了一行")
 	// fmt.Println("又加了一行")
 
 }
