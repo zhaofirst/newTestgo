@@ -1,3 +1,3 @@
-module github.com/zhaofirst/newTestgo
+module newTestgo
 
 go 1.18
