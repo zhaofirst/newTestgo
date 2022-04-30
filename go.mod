@@ -1,3 +1,3 @@
-module test428
+module newTestgo
 
 go 1.18
